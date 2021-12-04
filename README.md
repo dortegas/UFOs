@@ -1,6 +1,7 @@
 # UFOs
 
 ## Overview
+UFO Sightings with JavaScript
 
 ## Resources
   - Language: JavaScript ECMAScript
