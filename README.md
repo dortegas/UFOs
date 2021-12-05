@@ -38,4 +38,4 @@ Although Dana’s Web page and dynamic table are working as intended, one drawba
     
 <img src="Resources/filter_5.png" width="500" />
 
-  2. We could strengthen the filter table function with the JavaScript function toUpperCase or toLowerCase to convert the user inputs and the data source so the match criteria could be case insensitive. 
+  2. We could strengthen the filterTable() function with the JavaScript function toUpperCase or toLowerCase to convert the user inputs and the data source so the match criteria could be case insensitive. 
