@@ -12,7 +12,9 @@ UFO Sightings with JavaScript is a project where Dana is a data journalist, and 
 ## Results
 Using JavaScript and HTML, the table on the UFO sightings Web page has five filters developed with JavaScript tools to manipulate the data. The filters to fine-tune the results are by date, city, state, country, and shape, as the following image showcases.
 
-The Web page has a JavaScript function to loop through the dataset and keep only the results that match the search criteria. The Web page will be updated with the search criteria after pressing "Enter". 
+The Web page has a JavaScript function to loop through the dataset and keep only the results that match the search criteria. The Web page will be updated with the search criteria after pressing "Enter".
+
+<img src="Resources/WebPage.PNG" width="650" />
 
 The user could include only one filter as match criteria and execute the search to get the filtered results. For instance, typing in "ca" in the State filter.
 
