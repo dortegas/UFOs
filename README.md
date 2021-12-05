@@ -14,8 +14,14 @@ Using JavaScript and HTML, the table on the UFO sightings Web page has five filt
 
 The Web page has a JavaScript function to loop through the dataset and keep only the results that match the search criteria. The Web page will be updated with the search criteria after pressing "Enter".
 
-<img src="Resources/WebPage.PNG" width="650" />
+<img src="Resources/WebPage.PNG" width="600" />
 
 The user could include only one filter as match criteria and execute the search to get the filtered results. For instance, typing in "ca" in the State filter.
 
+<img src="Resources/filter_1.PNG" width="600" />
+
 The user could include together more than two filters as match criteria and execute a search, as the following image showcases.
+
+<img src="Resources/filter_2.PNG" width="600" />
+
+## Summary
