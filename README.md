@@ -8,3 +8,5 @@ UFO Sightings with JavaScript is a project where Dana is a data journalist, and 
   - Development tool: VS Code and Google DevTools 
   - Web Design tools: HTML5, Bootstrap 3 and CSS
   - Data source: data.js
+
+## Results
