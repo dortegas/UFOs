@@ -34,6 +34,8 @@ Although Dana’s Web page and dynamic table are working as intended, one drawba
 
 **Recommendations:**
 
-  1. To improve the user experience on the table filters, we could integrate JavaScript elements like Calendar in the Date filter, so the match criteria can work to retrieve accurate results.
+  1. To improve the user experience on the table filters, we could integrate JavaScript elements like Calendar in the Date filter, so the search criteria can retrieve accurate results.
     
 <img src="Resources/filter_5.png" width="500" />
+
+  2. We could strengthen the filter table function with the JavaScript function toUpperCase or toLowerCase to convert the user inputs and the data source so the match criteria could be case insensitive. 
