@@ -25,3 +25,5 @@ The user could include together more than two filters as match criteria and exec
 <img src="Resources/filter_2.PNG" width="600" />
 
 ## Summary
+
+Although Dana’s Web page and dynamic table are working as intended, one drawback of this design is the user should type in the exact match criteria to get results. For instance, if the user enters the word Fresno in the City filter, the Web page is updated with no results. So, the user must type in the spelling and case word accurate Fresno.
