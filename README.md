@@ -32,7 +32,7 @@ Although Dana’s Web page and dynamic table are working as intended, one drawba
 
 <img src="Resources/filter_4.PNG" width="500" />
 
-**Recommendations:
+**Recommendations:**
 
   1. To improve the user experience on the table filters, we could integrate JavaScript elements like Calendar in the Date filter, so the match criteria can work to retrieve accurate results.
     
